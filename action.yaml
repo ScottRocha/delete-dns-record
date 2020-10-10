@@ -1,6 +1,6 @@
 name: "CloudFlare Delete DNS Record"
 description: "Deletes CloudFlare DNS record"
-author: "InfraWay"
+author: "ScottRocha"
 
 inputs:
   id:
@@ -21,5 +21,5 @@ runs:
   main: "main.js"
 
 branding:
-  icon: "globe"
-  color: "green"
+  icon: "cloud"
+  color: "orange"
